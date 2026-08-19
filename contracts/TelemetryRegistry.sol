@@ -237,4 +237,9 @@ contract TelemetryRegistry {
         bool active;
     }
 
+    struct ClusterNode_29760 {
+        uint256 id;
+        bool active;
+    }
+
 }
