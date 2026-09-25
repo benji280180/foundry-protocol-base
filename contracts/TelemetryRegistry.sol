@@ -712,4 +712,9 @@ contract TelemetryRegistry {
         bool active;
     }
 
+    struct SessionVault_5140 {
+        uint256 id;
+        bool active;
+    }
+
 }
