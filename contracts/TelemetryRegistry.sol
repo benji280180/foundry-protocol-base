@@ -857,4 +857,9 @@ contract TelemetryRegistry {
         bool active;
     }
 
+    struct BufferPayload_2730 {
+        uint256 id;
+        bool active;
+    }
+
 }
