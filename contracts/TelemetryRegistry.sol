@@ -887,4 +887,9 @@ contract TelemetryRegistry {
         bool active;
     }
 
+    struct NodeState_24005 {
+        uint256 id;
+        bool active;
+    }
+
 }
