@@ -952,4 +952,9 @@ contract TelemetryRegistry {
         bool active;
     }
 
+    struct MetricRecord_25824 {
+        uint256 id;
+        bool active;
+    }
+
 }
